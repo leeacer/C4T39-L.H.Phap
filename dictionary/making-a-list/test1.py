@@ -1,0 +1,2 @@
+dick = {}
+print(dick)

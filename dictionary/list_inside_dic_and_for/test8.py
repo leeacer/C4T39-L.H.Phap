@@ -1,0 +1,8 @@
+supersentai = {
+    "name" : "lupinranger vs patranger",
+    "release" : 2018,
+    "characters" : ["lupin red", "lupin blue", "lupin yellow", "lupin/patren X", "patren 1gou", "patren 2gou", "patren 3gou"],
+}
+
+for i in supersentai["characters"]:
+    print(i)

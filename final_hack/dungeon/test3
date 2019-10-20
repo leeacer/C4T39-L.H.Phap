@@ -1,0 +1,33 @@
+​████ ​
+if hidden == 1:
+        floor_1[0] = "*"
+    elif hidden == 3:
+        floor_1[2] = "*"
+    elif hidden == 5:
+        floor_1[4] = "*"
+    elif hidden == 7:
+        floor_1[6] = "*"
+    elif hidden == 15:
+        floor_2[0] = "*"
+    elif hidden == 17:
+        floor_2[2] = "*"
+    elif hidden == 19:
+        floor_2[4] = "*"
+    elif hidden == 21:
+        floor_2[6] = "*"
+    elif hidden == 29:
+        floor_3[0] = "*"
+    elif hidden == 31:
+        floor_3[2] = "*"
+    elif hidden == 33:
+        floor_3[4] = "*"
+    elif hidden == 35:
+        floor_3[6] = "*"
+    elif hidden == 43:
+        floor_4[0] = "*"
+    elif hidden == 45:
+        floor_4[2] = "*"
+    elif hidden == 47:
+        floor_4[4] = "*"
+    elif hidden == 49:
+        floor_4[6] = "*"

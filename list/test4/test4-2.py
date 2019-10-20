@@ -1,0 +1,10 @@
+items = ["Overwatch", "Candy", "Persona"]
+print(*items, sep=", ")
+items.append("Hot anime bois")
+print(*items, sep=", ")
+print("||First item||")
+print(items[0].upper())
+print("||Last item||")
+print(items[-1].upper())
+print("||Second to last item||")
+print(items[-2].upper())
